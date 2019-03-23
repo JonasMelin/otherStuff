@@ -1,0 +1,617 @@
+(1) aldrig - never
+(10) alex - alex
+(7) alla - all
+(1) allt - _all_text
+(2) alltid - always
+(1) amex - american express
+(1) andra - other
+(4) annan - other
+(1) annorlunda - different
+(1) artist - artist
+(14) att - that
+(3) av - of
+(1) avbokar - cancel
+(1) avbokas - cancelled
+(4) bara - only
+(1) barnen - page 195
+(1) barnkalas - kids
+(2) benet - leg
+(1) beror - depend
+(1) bilen - your vehicle
+(1) bingo - bingo
+(1) blandat - social icons 2
+(3) blev - became
+(6) bli - go
+(11) blir - results in
+(1) blocket - block
+(1) blå - blue
+(1) blått - blue
+(1) bo - stitch
+(1) boka - book
+(5) bor - boron
+(1) borta - away
+(9) bra - good
+(1) bridgeblandning - bridge mix
+(1) broccoli - broccoli
+(1) bromma - bromma borough
+(1) brukar - usually
+(1) buffé - buffet
+(2) bärs - beer
+(1) båda - both
+(1) började - began
+(2) börjar - starts
+(1) chans - chans
+(1) chris - chris
+(1) clown - clown
+(2) dag - day
+(1) dagar - days
+(1) dagis - preschool education
+(1) dance - dance music
+(4) dansa - dance
+(11) de - they
+(1) deala - deala
+(14) den - this
+(98) det - that
+(5) dig - you
+(1) din - your
+(1) dit - whither
+(2) djuraffär - pet store
+(1) doktor - dr.
+(1) dra - slide
+(1) dricka - beverage
+(1) dröm - dream
+(1) drömmen - the dream
+(63) du - you
+(1) duschstång - shower rail
+(1) dyrt - expensive
+(11) där - the
+(13) då - then
+(2) efter - after
+(6) eller - or
+(1) elva - eleven
+(40) en - en
+(1) er - er
+(1) era - era
+(11) ett - a
+(1) faktiskt - truly
+(1) fakturan - the invoice,
+(1) fall - cases
+(1) familjen - family
+(6) fan - fan
+(1) farsa - father
+(1) farsorna - dads
+(2) fel - errors
+(2) fem - five
+(1) femdagars - five day
+(5) femma - femma
+(1) femårskalas - femårskalas
+(1) festa - festa
+(1) festliga - festive
+(4) fick - got
+(1) finniga - pimply
+(1) finns - there
+(1) fint - fine
+(1) fira - celebrate
+(1) fiskis - fiskis
+(1) fisksätra - fisksätra
+(1) fixar - fixes
+(1) fler - more
+(1) fortfarande - still
+(1) framfabaktie - framfabaktie
+(1) framgångsrik - no 4-528/303
+(1) fredag - friday
+(1) fredde - fredde
+(1) freddes - nagina
+(1) friska - sound;
+(1) fru - mrs.
+(1) fräsch - fresh
+(1) fräscht - fresh
+(1) frågan - this issue.&#x0d;
+(6) från - from the
+(4) fula - fula language
+(1) fulare - uglier
+(1) full - full
+(1) fullständigt - completely
+(3) fullt - built to be fully
+(1) funka - funka
+(1) fy - fy
+(2) fyller - filling.
+(1) fylleragg - fillers ragg
+(3) fyra - four
+(1) fyradagars - four day
+(1) fyrarätters - four course
+(1) fyrhövdade - four-head
+(1) fyrverkerier - fireworks
+(1) färdtjänst - mobility allowance
+(2) få - gain
+(7) får - may
+(1) föddes - was born
+(1) födelsedag - birthday
+(1) föll - fell
+(15) för - for
+(2) före - in front
+(1) förlåt - sorry
+(1) förstår - understand
+(1) förståsigpåare - pundits
+(2) försöka - assay
+(1) föräldrar - parents;
+(1) gamla - old
+(3) gammal - old
+(1) gammalt - old
+(1) ganska - quite expensive
+(2) gatan - street
+(1) ge - giving
+(1) gick - went
+(2) gift - venom
+(1) gjort - completing
+(1) glad - cheerful
+(1) glasögonen - the glasses
+(1) glo - glo
+(1) gluggarna - windows
+(1) golden - golden
+(1) gott - tasty
+(1) grabben - kiddo.
+(1) grand - grand
+(1) grej - disappointment
+(5) guarana - guarana
+(1) guatemala - gt
+(1) gubbe - old man
+(1) gubbgodis - the old man candy
+(2) gud - god
+(1) gulligt - cute
+(1) gustaf - gustav
+(1) gymnasiet - gymnasium
+(3) gäller - apply
+(8) gå - go
+(5) gång - time
+(5) går - capable
+(5) gör - ensures
+(1) göra - create
+(14) ha - have
+(2) hade - had
+(1) haft - had
+(1) hallå - greeting
+(1) halsbandet - the necklace
+(1) halv - one half
+(1) halvcool - half cool
+(1) hamburgermeny - hamburger menu
+(13) han - laren
+(1) handbollslaget - handball team
+(1) hans - his
+(2) hascha - hascha
+(13) hej - hi
+(1) heja - cheer
+(1) hela - the full
+(1) helgen - weekend
+(1) heller - either.
+(1) hem - home
+(3) hemma - at home.
+(1) hemmabio - home cinema
+(2) henne - her
+(1) heter - scale
+(1) hits - hit
+(1) hjälper - helps
+(1) holmen - holmen
+(13) hon - she
+(1) hotel - hotel
+(1) hummer - lobster
+(1) hundar - dogs
+(6) hunden - the dog?
+(1) hundens - dog
+(2) hundrade - the hundredth
+(1) hunduppfödare - dog breeder
+(8) hur - how
+(1) hyrde - rented
+(2) hämta - fetch
+(1) hände - happened
+(21) här - army
+(1) häromveckan - other week
+(1) håll - obstruction
+(1) håller - keeps
+(1) håret - hair
+(1) höftkula - hip shot
+(1) högstadiet - högstadiet
+(1) höjdpunkt - highlight
+(1) höjer - , increases
+(1) hör - höör
+(1) höra - to summon ... to appear
+(1) hörnet - corner
+(3) ica - ica ab
+(1) idiotfrågor - idiot questions
+(1) igen - again
+(1) ihåg - remember:
+(1) imposter10 - imposter10
+(2) in - in
+(1) inbjudna - invitees
+(4) ingen - no
+(1) ingenting - nothing
+(3) inget - nothing
+(1) innan - before
+(3) inne - indoor
+(39) inte - no
+(1) intresserad - interested
+(14) ja - yes
+(63) jag - me
+(3) jaha - okay.
+(3) javisst - sure.
+(2) jo - .
+(2) jobbar - i am currently employed
+(1) jobbig - annoying
+(1) jodå - oh yeah.
+(1) jonas - jonas
+(10) ju - ju
+(1) jättebra - great
+(1) jättegulligt - really cute
+(2) jättekul - very funny.
+(1) jättelängesen - giant long ago
+(1) jättestort - giant
+(9) kalas - party
+(1) kalaset - the party
+(1) kalasets - kalasets
+(1) kalasfixarna - party fixes
+(4) kallt - cold
+(16) kan - simply
+(2) kanske - perhaps
+(3) khalma - khalma
+(1) kharma - kharma
+(2) killar - boys
+(1) kille - boy
+(1) kilo - kilograms
+(1) klar - completed
+(2) klart - done
+(1) klassfest - class party
+(1) klassfestsyndromet - class party syndrome
+(1) klassisk - classic
+(2) klippat - klippat
+(1) klubb - club
+(1) knappt - hardly
+(4) kolla - me too
+(1) kollade - checked
+(1) komma - comma
+(3) kommer - will come back.
+(1) kompisar - allies
+(1) konkurs - bankruptcy
+(1) konstigt - strange!
+(3) konvergensteorin - convergence theory
+(1) konvergerar - converge
+(1) kopplet - connected
+(2) kostar - cost
+(1) kronor - sek
+(5) kul - fun
+(1) kungsgatan - kungsgatan
+(2) kunna - be able to
+(1) kunnat - could
+(3) kvar - left
+(1) kvarter - area
+(4) kväll - even
+(1) kyrkan - ?year of birth
+(2) kände - knew?
+(1) känna - experience
+(3) känner - recognize
+(1) känns - feels a bit expensive
+(1) kär - love
+(2) köp - buy
+(1) köpa - buy
+(1) kör - executing
+(1) köra - execute
+(3) labrador - labrador
+(1) lekar - play
+(1) let's - let&#39;s
+(6) leva - leva
+(1) levande - alive.
+(1) lever - liver
+(1) leveranstid - delivery time
+(1) libanesiskt - lebanese
+(1) liftkort - ski passes
+(2) ligga - lie
+(3) ligger - is
+(1) lika - like
+(2) liksom - (liksom!)
+(2) linda - linda
+(1) linoleum - linoleum
+(13) lite - little
+(1) liten - small
+(1) liv - life
+(2) livet - life
+(1) lnbjudningarna - lnbjudningarna
+(4) lnte - lnte
+(1) longhorn - longhorn
+(1) lugnt - calm
+(1) lund - lund
+(1) lussan - lussan
+(1) lussans - lussans
+(2) läget - what's up?
+(1) lägga - lay
+(1) längre - longer
+(3) låg - low
+(1) låt - song
+(2) löfström - l.n.
+(1) lönar - pays
+(2) malm - brass
+(1) mamma - mum
+(10) man - month
+(1) mandarin - tangerine
+(2) mango - mango
+(1) markoolio - metallica
+(3) mat - food
+(1) me - me
+(15) med - with
+(1) mellan - between
+(1) mellanstadiet - middle school
+(18) men - however
+(2) menar - mean
+(3) mer - more
+(1) mig - big hug
+(2) min - min
+(2) mobboffer - mob victims
+(3) morgon - forenoon
+(2) musik - music
+(2) mycket - quite a bit
+(2) mysigt - cozy
+(3) må - m
+(1) månad - month
+(1) många - many
+(7) måste - must
+(1) nattklubben - nightclub
+(13) nej - no
+(5) ni - e
+(2) nia - nia
+(2) nog - sox
+(16) nu - now
+(1) nuförtiden - these days
+(1) nytt - new
+(2) nämen - nämen
+(2) när - when
+(1) nästan - almost
+(2) nää - nää
+(3) några - more
+(2) nån - eachother
+(1) nånting - something
+(5) nåt - something
+(3) nörd - nerd
+(1) nötter - nuts
+(1) observatoriet - the observatory
+(38) och - and
+(2) också - also
+(1) offert - quotation
+(1) oförglömlig - unforgettable
+(4) okej - okay
+(10) om - on
+(1) orimligt - unreasonably
+(1) orkar - can't manage
+(1) oss - us
+(3) otroligt - unbelievable
+(4) ove - ove
+(1) panel - tile
+(2) pappa - dad
+(1) parmiddagar - couple dinners
+(2) partytält - party tent
+(1) partytältet - party tent
+(1) pengarna - the money
+(1) pensionärer - pensioners
+(1) pix - pix
+(1) pladask - head over heels
+(1) plastgolv - vinyl flooring
+(4) plugget - school stuff
+(1) pojkspoling - stripling
+(2) precis - precising definition
+(1) preferenser - preferences
+(1) professionell - professional
+(1) prova - try out
+(1) puss - puss
+(40) på - of the
+(1) quo - quo
+(3) rabarber - lemon elderflower
+(1) rasat - crumbled
+(1) receptionen - reception
+(1) reglerna - the rules
+(1) rena - pure
+(1) restaurang - restaurant
+(2) ringa - negligible
+(1) ringde - called
+(2) ringer - ringer
+(1) rulle - roll
+(1) runt - around
+(1) ryckert - ryckert
+(1) rädda - relieve
+(1) räntefond - interest fund
+(1) rätters - course
+(1) råttatouille - ratatouille
+(3) sa - said
+(1) sak - item
+(1) samarbete - collaboration
+(6) samma - the same
+(1) samskolan - samskolan
+(1) samtidigt - at the same time
+(1) scenskolan - stage school
+(1) schiller - schiller
+(2) se - view
+(1) semifinal - semi final 2
+(3) sen - ago
+(1) senast - latest
+(2) sent - sent
+(8) ser - serine
+(5) ses - be
+(1) sexa - sexa
+(1) sig - themselves
+(1) silver - silver
+(1) sin - sin
+(1) sitt - their
+(2) sitter - sitting
+(1) sjua - seven
+(2) själv - self
+(15) ska - must
+(1) skaffa - gain
+(1) skicka - send
+(1) skild - divorced
+(1) skit - feces
+(1) skoj - how fun
+(1) skolan - school
+(7) skulle - should
+(1) skämtade - joked
+(1) skåp - cubicle
+(1) slut - end
+(1) sluta - cease
+(1) slå - lay
+(1) slår - beats
+(1) smaka - taste
+(4) snygga - stylish
+(2) snyggare - nicer
+(1) snyggsofi - snyggsofi
+(1) snyggt - neat
+(10) sofi - sofi
+(17) som - as
+(1) somna - fall asleep
+(1) sova - sleeping
+(1) sparar - saving
+(1) spelar - plays
+(7) spänn - span
+(1) stan - ‘stan’
+(1) status - status
+(1) sticka - to stick
+(3) stort - large
+(1) stranden - beach
+(1) sturegatan - sturegatan 1
+(1) styr - control
+(2) ställe - place
+(1) stängde - closed
+(1) står - stand
+(1) större - bigger
+(1) sudan - 736
+(1) supa - supa
+(1) surprise - surprise
+(2) svara - reply
+(1) svarar - responds
+(1) svårt - difficult
+(1) säga - tell
+(2) säger - says
+(1) säkert - sicher
+(1) säljer - selling
+(1) sämre - has worsened
+(1) sätt - manner.
+(20) så - so that
+(2) sån - such a
+(1) såna - those
+(1) sötnos - sweetheart
+(4) ta - take
+(5) tack - thank-you
+(1) tag - socket
+(1) taget - a time
+(1) tagit - taken :
+(2) tandläkare - dental practitioner
+(1) tandläkarhögskolan - dental school
+(1) tar - takes
+(2) taxi - taxi
+(1) teve - direct-view television set
+(1) teven - the tv.
+(1) texas - texas
+(1) text - text
+(1) thai - thai
+(1) tia - tia
+(11) till - as
+(1) timmar - hours
+(1) tio - ten
+(1) tips - tip
+(1) titta - look
+(1) tjafs - ?tommyrot, nonsense
+(6) tjena - tada
+(1) tjenare - hey
+(1) toan - toan
+(1) tobbe - tobbe
+(1) tog - took
+(1) toppen - top
+(1) trasigt - broken
+(2) tre - three
+(1) trea - trea
+(1) trevligt - nice
+(1) tro - faith
+(1) troll - troll
+(1) trollar - conjured
+(2) trollkarl - sorcerer
+(1) träffade - met
+(1) träffas - meet
+(4) turbo - turbo
+(1) tusen - five thousand
+(1) tvärs - across
+(1) tycka - think
+(6) tycker - vote
+(1) tydligen - obviously
+(1) täckkräm - täckkräm
+(1) tänderna - the teeth
+(1) tänker - thinking.
+(3) tänkte - figured
+(2) tåg - train
+(1) tåget - the train
+(1) tårtloggan - cake logo
+(1) tönt - nerd
+(1) underhållning - entertainment
+(1) unga - teu
+(1) ungar - kids
+(1) ungarna - the chicks
+(1) ungefär - approximately
+(2) upp - up
+(1) upplands - upplands
+(1) upplevelse - experience
+(1) uppmärksamt - attentively
+(1) ursäkta - sorry
+(12) ut - and
+(2) ute - outside
+(2) uti - uti
+(1) utseendepoäng - appearance score
+(1) utseendepoängen - look the point
+(1) va - sewerage
+(29) vad - what
+(2) valp - valp
+(2) vanilj - vanilla
+(21) var - was
+(6) vara - be
+(3) varandra - each other.
+(3) varför - why
+(2) varje - every
+(1) varsin - each
+(1) varsågoda - there you have it!
+(1) vart - where
+(1) veckors - weeks
+(5) vem - who
+(1) verkar - seems
+(2) verkligen - actually
+(10) vet - know
+(2) veta - know
+(38) vi - we
+(1) vid - the telephone number by
+(3) viktor - viktor
+(2) viktors - viktor
+(1) vilken - which
+(10) vill - ?swojom
+(3) ville - ville
+(1) visserligen - although
+(1) visst - certain
+(1) vore - would
+(1) vägen - road
+(7) väl - well
+(1) vända - flip
+(2) vänta - hold
+(1) värderas - measured
+(1) världens - world
+(1) väsby - väsby
+(2) växer - growing
+(2) vår - spring
+(1) våra - our
+(1) yoghurt - yogurt
+(1) ädelostpaj - ädelostpaj
+(3) älskling - sweetheart
+(1) än - than
+(2) ändå - anyway
+(1) äntligen - äntligen
+(74) är - is
+(1) äter - eating
+(1) åh - oh
+(1) åker - field
+(10) år - year
+(3) åren - years
+(1) åt - at
+(1) åtta - eight
+(1) öl - beer
+(1) öppna - open
+(1) örtagårdsvägen - örtagårdsvägen
+(1) över - over
